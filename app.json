@@ -1,0 +1,6 @@
+{
+  "name": "copyCat_NodeJS",
+  "description": "Webhook echo for API.ai",
+  "repository": "https://github.com/anirsom2012/copyCat_NodeJS.git",
+  "keywords": ["api.ai", "natural language"]
+}
